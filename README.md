@@ -66,8 +66,8 @@ clang++ main.cpp src/calculos.cpp src/clientes.cpp src/costos.cpp src/menus.cpp 
 | :------- | :------: | :----: | :----: | :---------: |
 | C Header | 11       | 411    | 198    | 71          |
 | C++      | 10       | 3815   | 2796   | 201         |
-| Markdown | 1        | 80     | 0      | 45          |
-| Total    | 22       | 4305   | 2994   | 317         |
+| Markdown | 1        | 79     | 0      | 46          |
+| Total    | 22       | 4305   | 2994   | 318         |
 
 ---
 
