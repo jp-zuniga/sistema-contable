@@ -28,13 +28,13 @@ Los pagos pendientes se registran a la hora de crear una venta que no se ha paga
 
 ![Menú de Gestión de Pagos Pendientes.](./assets/menu-pendientes.png "Menú de Gestión de Pagos Pendientes.")
 
-#### 4. Gestión de Costos Fijos:
+### 4. Gestión de Costos Fijos:
 
 Un costo fijo esta compuesto por un ID, el monto del costo y una pequeña descripción.
 
 ![Menú de Gestión de Costos Fijos.](./assets/menu-fijos.png "Menú de Gestión de Costos Fijos.")
 
-#### 5. Gestión de Costos Variables:
+### 5. Gestión de Costos Variables:
 
 El módulo de costos variables es igual al de costos fijos; la única diferencia es que a la hora de registrar un costo variable, también se le pide al usuario el mes al que corresponde el costo.
 
