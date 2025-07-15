@@ -50,11 +50,11 @@ El sistema permite calcular los totales de todos los montos que ha registrado el
 
 ## Compilación
 
-```
+```bash
 g++ main.cpp src/calculos.cpp src/clientes.cpp src/costos.cpp src/menus.cpp src/pendientes.cpp src/precio.cpp src/titulos.cpp src/util_funcs.cpp src/ventas.cpp -Iheaders -o main
 ```
 
-```
+```bash
 clang++ main.cpp src/calculos.cpp src/clientes.cpp src/costos.cpp src/menus.cpp src/pendientes.cpp src/precio.cpp src/titulos.cpp src/util_funcs.cpp src/ventas.cpp -Iheaders -o main
 ```
 
@@ -74,6 +74,6 @@ clang++ main.cpp src/calculos.cpp src/clientes.cpp src/costos.cpp src/menus.cpp 
 ## Créditos
 
 * *[LemonLib](https://github.com/sea2horses/LemonLib):*
-    * Utilizado como base para ```headers/colors.h```. El código de ```LemonLib/LemonLibCSB.h```, y su funcionalidad para coloreara texto en el terminal fue adaptada y simplificada para este proyecto.
+    * Utilizado como base para `headers/colors.h`. El código de `LemonLib/LemonLibCSB.h`, y su funcionalidad para colorear texto en el terminal fue adaptada y simplificada para este proyecto.
 * *[patorjk.com](http://patorjk.com/software/taag/):*
-    * Utilizado para crear el arte ASCII de los menús, con el font "BigMoney".
+    * Utilizado para crear el arte ASCII de los menús.
